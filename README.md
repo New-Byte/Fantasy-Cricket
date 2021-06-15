@@ -1,14 +1,14 @@
 # Fantasy-Cricket
-Fantasy Cricket game using python
 Fantasy Cricket Game GUI using Python(PyQt5) and sqlite3 is an online game where we can create a virtual cricket Team of Real Cricket Players.
 
-Programming Language Used: Python
+### Programming Language Used: Python
 
-Database: MySql
+### Database: MySql
 
+### About Game: 
 Fantasy Cricket Game is a game where we can create a virtual cricket team of real cricket players. Each player has their own Points. There will be a limited no. of points to select 11 players, if we don't have enough points we can't select a player if his points are more and the team is evaluated using points of each player based on their performance internally. To win a tournament, we must try and get the maximum points and the No. 1 rank amongst other participants.
 
-The team is evaluated using these rules for each Player:
+## The team is evaluated using these rules for each Player:
 
 Batting: 1 point for 2 runs scored, Additional 5 Points for half Century, Additional 10 points for a century, 2 points for strike rate (runs/balls faced) of 80 - 100, Additional 4 points for strike rate>100, 1 point for hitting a boundary (four) and 2 points for over boundary(six).
 
